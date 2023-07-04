@@ -8,8 +8,7 @@ Hi, my name is João Vítor and I am an Intern Cloud Data Engineer at compass.uo
   <img src="/portfolio-site/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
-
+## What is This?
 This is a personal space where I can share my works and also stuff I like. 
 
 ## Features
